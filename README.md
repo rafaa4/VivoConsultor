@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rafael | Consultor Vivo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f1f1f1;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #002776;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+    }
+    .btn {
+      display: block;
+      background: #34af23;
+      color: white;
+      padding: 15px;
+      margin: 10px 0;
+      text-align: center;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 8px;
+    }
+    .streamings img {
+      width: 100px;
+      margin: 10px;
+    }
+    footer {
+      background: #002776;
+      color: #fff;
+      text-align: center;
+      padding: 10px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Rafael da Silva Conceição</h1>
+  <p>Consultor Vivo</p>
+  <a class="btn" href="https://wa.me/5563999770249?text=Olá%20Rafael,%20preciso%20de%20ajuda." target="_blank">Fale comigo no WhatsApp</a>
+</header>
+
+<section>
+  <h2>O que você precisa?</h2>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20reativar%20meu%20chip" target="_blank">Reativar meu chip</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20um%20telefone%20novo" target="_blank">Comprar um telefone</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20assinar%20um%20streaming" target="_blank">Assinar streaming</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20um%20novo%20plano%20Vivo" target="_blank">Novo plano Vivo</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Preciso%20de%20ajuda%20com%20minha%20fatura" target="_blank">Ajuda com fatura</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20acessórios%20(como%20capinha,%20película,%20caixa%20de%20som)" target="_blank">Quero acessórios</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Tenho%20outra%20dúvida" target="_blank">Outro assunto</a>
+</section>
+
+<section class="streamings">
+  <h2>Escolha seu streaming</h2>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20assinar%20Prime%20Video">Prime Video</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20assinar%20Disney+">Disney+</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20assinar%20Familião">Familião</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20assinar%20Globoplay">Globoplay</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20assinar%20Max">Max</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20assinar%20Netflix">Netflix</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20assinar%20Vimeo">Vimeo</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20assinar%20Spotify">Spotify</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20assinar%20Telecine">Telecine</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20assinar%20Vale%20Saúde">Vale Saúde</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20assinar%20Viva%20E">Viva E</a>
+  <a class="btn" href="https://wa.me/5563999770249?text=Quero%20assinar%20Vivo%20Play%20App">Vivo Play App</a>
+</section>
+
+<footer>
+  <p>Rafael da Silva Conceição – Consultor Vivo</p>
+  <p>Atendimento via WhatsApp – (63) 9 9977-0249</p>
+  <p>Site informativo. Atendimento personalizado pelo WhatsApp.</p>
+</footer>
+
+</body>
+</html>
